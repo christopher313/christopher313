@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm christopher</h1>
 <h3 align="center">A passionate frontend developer and other</h3>
-<div style="display:flex; justify-content: space-between">
+<div style="display:flex; justify-content: space-between; width:100%">
 <p> <img src="https://komarev.com/ghpvc/?username=christopher313&label=Profile%20views&color=4f5ece&style=plastic" alt="christopher313" /> </p>
 <p> <a href="https://twitter.com/gaugerchristop2" target="blank"><img src="https://img.shields.io/twitter/follow/gaugerchristop2?logo=twitter&style=for-the-badge&color=blue" alt="gaugerchristop2" /></a> </p>
 <div>
