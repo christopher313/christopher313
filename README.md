@@ -5,7 +5,7 @@
 
 <p align="middle" style="margin-right:10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christopher313&theme=onedark" alt="christopher313" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/gaugerchristop2" target="blank"><img src="https://img.shields.io/twitter/follow/gaugerchristop2?logo=twitter&style=for-the-badge&style=blue" alt="gaugerchristop2" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gaugerchristop2" target="blank"><img src="https://img.shields.io/twitter/follow/gaugerchristop2?logo=twitter&style=for-the-badge&color=blue" alt="gaugerchristop2" /></a> </p>
 <p>
 - 🌱 I’m currently learning **flask, react.js, c#**
 
