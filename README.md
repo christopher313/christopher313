@@ -9,8 +9,6 @@
 <p align="left" >
 - 🌱 I’m currently learning **flask, react.js, c#**
 
-- 👨‍💻 All of my projects are available at [https://portfoliodechristophergauger.com/](https://portfoliodechristophergauger.com/)
-
 - 📫 How to reach me **christopher.gauger.pro@gmail.com**
 </p>
 
